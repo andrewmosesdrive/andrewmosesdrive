@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Andrew Moses.
+# Hi there 👋 I'm Andrew Moses.
 
-* I am a Full Stack Developer specializing in the MERN stack. I'm a big fan of JavaScript, solving puzzles, and helping others in their coding journey.
+### I am a Full Stack Developer specializing in the MERN stack. I'm a big fan of JavaScript, solving puzzles, and helping others in their coding journey.
 
 <!--
 **andrewmosesdrive/andrewmosesdrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
