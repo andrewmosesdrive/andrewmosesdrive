@@ -9,10 +9,10 @@ I am a Full Stack Developer specializing in the MERN stack. I'm a big fan of Jav
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="javascript logo" width="50" height="50" />
