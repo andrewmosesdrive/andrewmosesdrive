@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Andrew Moses.
 
-I am a Full Stack Developer specializing in the MERN stack. I'm a big fan of JavaScript, solving puzzles, and helping others in their coding journey.
+I'm a Software Engineer specializing in the MERN stack. I'm a big fan of JavaScript, solving puzzles, and helping others in their coding journey.
 
 ---
 
